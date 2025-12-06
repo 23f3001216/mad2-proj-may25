@@ -1,4 +1,4 @@
-#file to define celery
+
 
 from celery import Celery
 
